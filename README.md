@@ -1,4 +1,4 @@
-# reactrouter
+# Movie App (React Router)
 
 I used the movie app I have created in the previous project and I added the router library to route the views.
 
